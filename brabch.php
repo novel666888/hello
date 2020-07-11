@@ -1,4 +1,4 @@
 <?php
-echo "branchs";
+echo "branch";
 echo "change";
 ?>
