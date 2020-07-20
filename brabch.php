@@ -1,5 +1,5 @@
 <?php
 echo "branch";
 echo "change";
-echo "merge";
+echo "merge single";
 ?>
