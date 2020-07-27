@@ -1,6 +1,6 @@
 <?php
 echo "branch";
 echo "change";
-echo "merge hello";
+echo "merge moto";
 echo "commit no push";
 ?>
